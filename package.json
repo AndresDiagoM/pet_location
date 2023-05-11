@@ -1,6 +1,7 @@
 {
   "name": "pet_location",
   "private": true,
+  "homepage": "https://andresdiagom.github.io/pet_location/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
